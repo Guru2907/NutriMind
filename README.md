@@ -69,7 +69,7 @@
 │   ├── ✅ Validation of the RAG pipeline
 │   ├── 🍽️ Meal Plan
 │   └── 🔄 Food Swap
-📄 Capstone.pptx
+📄 Capstone.pdf
 📄 LICENSE
 📄 Problem_Statement.png
 📄 README.md
