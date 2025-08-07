@@ -8,7 +8,7 @@
 > 📊 Backed by a cleaned, vectorized Kaggle dataset
 > 🧠 ReAct + LangGraph-based agent framework
 
----
+--- 
 
 ## 📌 What This Project Does
 
